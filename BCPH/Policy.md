@@ -1,8 +1,3 @@
----
-layout: default
-title: Privacy Policy
----
-
 # 🌲 BC Parks Reservation Assistant
 ## Privacy Policy
 
